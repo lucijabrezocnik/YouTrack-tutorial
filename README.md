@@ -4,3 +4,5 @@ Tutorial vsebuje osnovna navodila za pripravo **YouTrack projekta** in kasnejše
 
 Koraki:
 1. [Priprava projekta](PripravaProjekta.md)
+2. ...
+3. [VCS integracija](\VCSintegracija.md)
