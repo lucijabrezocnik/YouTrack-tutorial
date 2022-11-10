@@ -10,24 +10,22 @@ Za potrebe vodenja razvoja boste pripravili dve tabli:
 
 ### Backlog
 
-Nastavite backlog tako, da bo prikazoval vsa nedodeljena opravila. To storite tako, da odprete *Backlog* (klik na gumb Backlog na levi strani nad Scrum tablo) in kliknite na gumb z ikono svinčnika. Poskrbite da je v polju *Query* vpisano naslednje:  
-
+Nastavite Backlog tako, da bo prikazoval vsa nedodeljena opravila. To storite tako, da odprete *Backlog* (klik na gumb Backlog na levi strani nad Scrum tablo) in kliknete na gumb z ikono svinčnika. Poskrbite, da je v polju *Query* vpisano naslednje:  
 ```
 project: <ime projekta> has: -{Board <ime projekta> project Management} #Unresolved #{User Story}  
 ```
 
 ### Scrum tabla
 
-Če na Scrum tabli ne vidite vseh stolpcev (TODO, DOING, DONE), kliknite gumb ***Board settings -> Columns and Swimlanes -> Add column*** in izberite ustrezne vrednosti. Poskrbite, da stolpce določa polje *State* (to je tudi privzeta nastavitev).
+Če na Scrum tabli ne vidite vseh stolpcev (TODO, DOING in DONE), kliknite gumb ***Board settings -> Columns and Swimlanes -> Add column*** in izberite ustrezne vrednosti. Poskrbite, da stolpce določa polje *State* (to je tudi privzeta nastavitev).
 
 <br>
 
 ## Project Development Board
 
-Backlog in Scrum tablo nastavite podobno kot pri [Project Management Board](#Project-Management-Board), le da tukaj v *Query-u* za Backlog ***#{User story}*** spremenite v ***#Task*** ter ***Management*** v ***Development***.
+Backlog in Scrum tablo nastavite podobno kot pri [Project Management Board](#Project-Management-Board), le da tukaj v *Query-u* za Backlog ***#{User story}*** spremenite v ***#Task*** in ***Management*** v ***Development***.
 
 Končni Query mora izgledati tako:  
-
 ```
 project: <ime projekta> has: -{Board <ime projekta> Project Development} #Unresolved #Task
 ```
