@@ -29,3 +29,7 @@ Končni Query mora izgledati tako:
 ```
 project: <ime projekta> has: -{Board <ime projekta> Project Development} #Unresolved #Task
 ```
+
+<br>
+
+  Dodatno gradivo: [Uradni tutorial - Agile Boards](https://www.jetbrains.com/help/youtrack/server/Agile-Board.html)

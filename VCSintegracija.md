@@ -38,3 +38,7 @@ git commit -m "inicializiral repozitorij #R2022-6 DONE Time 4h"
 - **Porabljen čas**: Time 4h
 
 Po ukazu ```git push``` se bo task prestavil na stolpec **DONE**, opravilu pa se bo vpisal tudi porabljen čas.
+
+<br>
+
+Dodatno gradivo: [Uradni tutorial - Connect to a VCS](https://www.jetbrains.com/help/youtrack/server/Connect-to-a-VCS.html)
