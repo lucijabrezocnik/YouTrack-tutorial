@@ -20,7 +20,7 @@ Na tak način dodajte vse uporabniške zgodbe, ki se bodo pojavile v Backlog-u.
 
 ## Opravila
 
-Še vedno ostajate na strani [Project Management Board](./AgileBoards#Project-Management-Board), kjer boste dodali tudi opravila. Dodate jih tako, da v Backlog-u pri **posamezni uporabniški zgodbi** kliknete na **ikono +**. Zahtevani vnosi:
+Še vedno ostajate na strani [Project Management Board](./AgileBoards.md#Project-Management-Board), kjer boste dodali tudi opravila. Dodate jih tako, da v Backlog-u pri **posamezni uporabniški zgodbi** kliknete na **ikono +**. Zahtevani vnosi:
 - naziv opravila (ID + kratek naziv),
 - opis opravila,
 - tip.
@@ -35,8 +35,8 @@ Na tak način dodajte vse uporabniške zgodbe, ki se bodo pojavile v Backlog-u.
 
 ## Sprint
 
-Da se pripravite na prvi sprint, v pogledu [Project Management Board](./AgileBoards#Project-Management-Board) kliknite na spustni seznam, kjer piše ***Unscheduled***, in izberite opcijo ***New sprint***. Sprint poimenujte (npr. ***Sprint <zaporedna številka Sprinta>***) in obkljukajte opcijo ***Add X unresolved issues from "Unscheduled"***.
+Da se pripravite na prvi sprint, v pogledu [Project Management Board](./AgileBoards.md#Project-Management-Board) kliknite na spustni seznam, kjer piše ***Unscheduled***, in izberite opcijo ***New sprint***. Sprint poimenujte (npr. ***Sprint <zaporedna številka Sprinta>***) in obkljukajte opcijo ***Add X unresolved issues from "Unscheduled"***.
 
-Zamenjajte pogled na [Project Development Board](./AgileBoards#Project-Development-Board), kjer boste opazili, da se je ustvarila steza za vsako uporabniško zgodbo.
+Zamenjajte pogled na [Project Development Board](./AgileBoards.md#Project-Development-Board), kjer boste opazili, da se je ustvarila steza za vsako uporabniško zgodbo.
 
 V Backlogu boste videli vsa opravila, ki ste jih prej ustvarili. V prvi Sprint jih dodate tako, da kliknete na **puščico na desni strani kartice opravila**. Opravilo se bo samodejno dodalo na Scrum tablo v stolpec **TODO v stezo uporabniške zgodbe h kateri spada**.
