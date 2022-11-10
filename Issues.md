@@ -40,3 +40,7 @@ Da se pripravite na prvi sprint, v pogledu [Project Management Board](./AgileBoa
 Zamenjajte pogled na [Project Development Board](./AgileBoards.md#Project-Development-Board), kjer boste opazili, da se je ustvarila steza za vsako uporabniško zgodbo.
 
 V Backlogu boste videli vsa opravila, ki ste jih prej ustvarili. V prvi Sprint jih dodate tako, da kliknete na **puščico na desni strani kartice opravila**. Opravilo se bo samodejno dodalo na Scrum tablo v stolpec **TODO v stezo uporabniške zgodbe h kateri spada**.
+
+<br>
+
+Dodatno gradivo: [Uradni tutorial - Issues](https://www.jetbrains.com/help/youtrack/server/Issues.html)
