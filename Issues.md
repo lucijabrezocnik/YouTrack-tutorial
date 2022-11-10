@@ -1,6 +1,6 @@
 # Uporabniške zgodbe in opravila
 
-Vse **uporabniške zgodbe** (ang. User story) in **opravila** (ang. Task) boste dodajali na strani ***Agile boards -> [Project Management Board](./AgileBoards#Project-Management-Board)***.
+Vse **uporabniške zgodbe** (ang. User story) in **opravila** (ang. Task) boste dodajali na strani ***Agile boards -> [Project Management Board](./AgileBoards.md#Project-Management-Board)***.
 
 ## Uporabniške zgodbe
 
