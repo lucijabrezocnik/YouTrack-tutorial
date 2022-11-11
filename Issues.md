@@ -11,12 +11,13 @@ Kliknite na gumb ***Create (moder gumb na vrhu strani) -> Card***. Zahtevani vno
 
   > :warning: **POZOR:** Preverite, da je nastavljen ```type: User Story```!
 
+<br>
+
 ![Dodajanje uporabniških zgodb](/slike/new_userstory.png)
-  <br>
 
-Drugih podatkov ne spreminjajte.
+<br>
 
-Na tak način dodajte vse uporabniške zgodbe, ki se bodo pojavile v Backlog-u.
+Drugih podatkov ne spreminjajte. Na tak način dodajte vse uporabniške zgodbe, ki se bodo pojavile v Backlog-u.
 
 
 
@@ -30,7 +31,11 @@ Na tak način dodajte vse uporabniške zgodbe, ki se bodo pojavile v Backlog-u.
 - tip.
 
   > :warning: **POZOR:** Preverite, da je nastavljen ```type: Task```!
+
+<br>
+
 ![Dodajanje novega opravila](/slike/new_task.png)
+
 <br>
 
 > :memo: **Note** YouTrack bo izpisal svarilo, da opravila v tem pogledu niso vidna. To lahko ignorirate, saj bomo taske tu le vpisovali. Pregledovali jih bomo v pogledu project Development.
