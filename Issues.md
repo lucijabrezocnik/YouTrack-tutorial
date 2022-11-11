@@ -11,7 +11,7 @@ Kliknite na gumb ***Create (moder gumb na vrhu strani) -> Card***. Zahtevani vno
 
   > :warning: **POZOR:** Preverite, da je nastavljen ```type: User Story```!
 
-![Dodajanje uporabniških zgodb](/slike/new_user_story.png)
+![Dodajanje uporabniških zgodb](/slike/new_userstory.png)
   <br>
 
 Drugih podatkov ne spreminjajte.
