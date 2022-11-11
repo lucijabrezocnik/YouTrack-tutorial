@@ -15,7 +15,7 @@ Kliknite na gumb ***Nastavitve (desni zgornji kot) -> Integrations -> VSC Integr
 
 <br>
 
-  > **OBVESTILO:**
+  > **Note**
   > - Pod **note** napišite, da je to token za YouTrack (za kasnejšo evidenco)
   > - Expiration: Vsaj 90 dni
   > - Pod *Select scopes* naj bo obkljukan **repo** in **admin:repo_hook**

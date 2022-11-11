@@ -38,7 +38,7 @@ Drugih podatkov ne spreminjajte. Na tak način dodajte vse uporabniške zgodbe, 
 
 <br>
 
-> **OBVESTILO:** YouTrack bo izpisal svarilo, da opravila v tem pogledu niso vidna. To lahko ignorirate, saj bomo taske tu le vpisovali. Pregledovali jih bomo v pogledu project Development.
+> **Note** YouTrack bo izpisal svarilo, da opravila v tem pogledu niso vidna. To lahko ignorirate, saj bomo taske tu le vpisovali. Pregledovali jih bomo v pogledu project Development.
 
 <br>
 

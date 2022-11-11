@@ -42,7 +42,7 @@ Kliknite ***Project -> <Ime vašega projekta> -> Fields (meni na desni strani)**
 
 <br>
 
-  > **OBVESTILO:** Asignee: polje že obstaja, morate pa ga nastaviti tako, da se pokaže le pri Task-ih. To storite enako kot pri poljih Due date in Time.
+  > **Note** Asignee: polje že obstaja, morate pa ga nastaviti tako, da se pokaže le pri Task-ih. To storite enako kot pri poljih Due date in Time.
 
 <br>
 
