@@ -12,7 +12,10 @@ Kliknite na gumb ***Nastavitve (desni zgornji kot) -> Integrations -> VSC Integr
 - **Server type**: GitHub
 - **Repository url**: prilepite link do repozitorija
 - **Personal access token**: klik na gumb **Generate token** in sledite navodilom na GitHub-u.  
-  > :memo: **Note:**
+
+<br>
+
+  > **OBVESTILO:**
   > - Pod **note** napišite, da je to token za YouTrack (za kasnejšo evidenco)
   > - Expiration: Vsaj 90 dni
   > - Pod *Select scopes* naj bo obkljukan **repo** in **admin:repo_hook**

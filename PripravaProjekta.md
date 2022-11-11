@@ -40,7 +40,9 @@ Kliknite ***Project -> <Ime vašega projekta> -> Fields (meni na desni strani)**
   - Due date -> Show only when: Type -> Is Set to: Task, Type: date and time  
   - Time -> Show only when: Type -> Is Set to: Task, Type: Period
 
-  > :memo: **Note:** Asignee: polje že obstaja, morate pa ga nastaviti tako, da se pokaže le pri Task-ih. To storite enako kot pri poljih Due date in Time.
+<br>
+
+  > **OBVESTILO:** Asignee: polje že obstaja, morate pa ga nastaviti tako, da se pokaže le pri Task-ih. To storite enako kot pri poljih Due date in Time.
 
 <br>
 
