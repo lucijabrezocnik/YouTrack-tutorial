@@ -8,3 +8,8 @@ Koraki:
 3. [Priprava uporabniških zgodb, opravil in Sprint-ov](Issues.md)
 4. [VCS integracija](VCSintegracija.md)
 5. [Priprava nadzorne plošče poročil](Reports.md)
+
+<br>
+<br>
+
+  Dodatno gradivo: [Uradni tutorial](https://www.jetbrains.com/youtrack)
