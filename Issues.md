@@ -25,7 +25,7 @@ Drugih podatkov ne spreminjajte. Na tak način dodajte vse uporabniške zgodbe, 
 
 ## Opravila
 
-Še vedno ostajate na strani [Project Management Board](./AgileBoards.md#Project-Management-Board), kjer boste dodali tudi opravila. Dodate jih tako, da v Backlog-u pri **posamezni uporabniški zgodbi** kliknete na **ikono +**. Zahtevani vnosi:
+Še vedno ostajate na strani [Project Management Board](./AgileBoards.md#Project-Management-Board), kjer boste dodali tudi opravila. Dodate jih tako, da v Backlog-u pri **posamezni uporabniški zgodbi** kliknete na **ikono +** (če ikona ni vidna, osvežite stran). Zahtevani vnosi:
 - naziv opravila (ID + kratek naziv),
 - opis opravila,
 - tip.
