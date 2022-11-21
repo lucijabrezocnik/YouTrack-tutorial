@@ -12,7 +12,7 @@ Za potrebe vodenja razvoja boste pripravili dve tabli:
 
 Nastavite Backlog tako, da bo prikazoval vsa nedodeljena opravila. To storite tako, da odprete *Backlog* (klik na gumb Backlog na levi strani nad Scrum tablo) in kliknete na gumb z ikono svinčnika. Poskrbite, da je v polju *Query* vpisano naslednje:  
 ```
-project: <ime projekta> has: -{Board <ime projekta> project Management} #Unresolved #{User Story} #TODO 
+project: <ime projekta> has: -{Board <ime projekta> project Management} #Unresolved #{User Story}
 ```
 
 ### Scrum tabla
