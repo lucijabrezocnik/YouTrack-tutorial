@@ -31,8 +31,9 @@ Kliknite ***Project -> <Ime vašega projekta> -> Fields (meni na desni strani)**
 
   - **TODO**
   - **DOING**
-  - **DONE** (obkljukajte **Resolved** in nastavite zeleno barvo)
+  - **DONE** (obkljukajte **Resolved** in nastavite ${\textcolor{green}{zeleno\ barvo}}$)
 
+<br>
 
 - **Dodatna polja:** Kliknite ***Add field to project***:  
 
