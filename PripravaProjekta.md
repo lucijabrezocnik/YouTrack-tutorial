@@ -37,7 +37,6 @@ Kliknite ***Project -> <Ime vašega projekta> -> Fields (meni na desni strani)**
 
 - **Dodatna polja:** Kliknite ***Add field to project***:  
 
-  - **Simple description** -> Show only when: Type -> Is Set to: User Story
   - Due date -> Show only when: Type -> Is Set to: Task, Type: date and time  
   - Time -> Show only when: Type -> Is Set to: Task, Type: Period
 
