@@ -1,8 +1,8 @@
 # Reports
 
-Ker informacijski sistem navadno razvija več oseb, lahko sledenje razvoja hitro postane neobvladljivo. Zaradi tega, nam YouTrack omogoča ustvarjanje **poročil** (Reports) na **nadzorni plošči** (Dashboard). To storimo tako, da kliknemo na zavihek ***Reports*** in izberemo poročilo, ki ga želimo ustvariti.
+Ker informacijski sistem navadno razvija več oseb, lahko sledenje razvoja hitro postane neobvladljivo. Zaradi tega, nam YouTrack omogoča ustvarjanje **poročil** (Reports) na **nadzorni plošči** (Dashboard). To storimo tako, da kliknemo na zavihek ***Reports*** in izberemo poročilo, ki ga želimo ustvariti. Vsak član skupine naj zase ustvari takšno nadzorno ploščo, kot je na spodnji sliki.
 
-<p align="center"><img src="https://www.jetbrains.com/youtrack/inc/overview-content/img/DashboardT.png" alt="drawing" width="80%"/> <br> [Vir: YouTrack]</p>
+<p align="center"><img src="slike/dashboard.png" alt="dashboard" width="80%"/> <br> </p>
 
 
 <br>
